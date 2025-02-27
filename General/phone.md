@@ -112,10 +112,10 @@
     <td><img src="https://i.imgur.com/7aEcDwW.png" alt="Trucker" style="width:100%;max-width:300px;"></td>
   </tr>
   <tr>
-    <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>              </p>
+    <td><p style="font-size: 22px; font-weight: bold; color: #ffffff"> Mesaje 📃</p><p>In această aplicație o sa primesti toate mesajele tale pe care le primesti.</p>
       <ul style="color: #c5c6c7;">
-        <li></li>
-        <li></li>
+        <li></li>Simion o sa fie mereu primul in mesagerie, indiferent cine it scrie.
+        <li></li>Oricine iți scrie. Mesajul cat si contactul acestuia o să se ducă sub ultima persoana care ți-a scris.
       </ul>
     </td>
     <td><img src="https://i.imgur.com/RzNddzj.png" alt="Mesaje" style="width:100%;max-width:300px;"></td>
