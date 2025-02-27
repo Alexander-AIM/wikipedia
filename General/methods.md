@@ -89,6 +89,7 @@
 
 <h2>Activity Points</h2>
 <p>Aceste puncte sunt utile pentru a cumpara diverse obiecte din Activity Shop.</p>
-  <li><strong>Sarcini zilnice</strong> Tastand comanda [/quest] o sa ti se deschida o interfata cu toate sarcinile zilnice pe care le ai</li>
-  <li><strong>Sarcini speciale</strong> Tastand comanda [/quest] si apoi navigand in tab-ul 'Special' aici o sa gasesti sarcini mai grele cu o durata de 30 de zile dar si mai bine platitea  .</li>
 <ul>
+ <li><strong>Sarcini zilnice</strong> Tastand comanda [/quest] o sa ti se deschida o interfata cu toate sarcinile zilnice pe care le ai</li>
+ <li><strong>Sarcini speciale</strong> Tastand comanda [/quest] si apoi navigand in tab-ul 'Special' aici o sa gasesti sarcini mai grele cu o durata de 30 de zile dar si mai bine platitea  .</li>
+</ul>
