@@ -16,9 +16,11 @@ Pe aceasta pagină poți să-ți cumperi:
 - **Clear 10 FP**: ștergi 10 FP de pe cont
 - **Clear warn**: ștergi un warn
 - **Clear faction history**: ștergi tot istoricul tău în facțiuni, acesta încă va rămâne vizibil la administratorii serverului
-
+- **Reset Character**: Cu ajutorul acestui sistem, poți să îți refaci caracterul de la 0, incluzând schimbarea sexului.
+- **25 Slots**: Îți mărești spațiul de inventar cu 25 de sloturi.
+- 
 <div class="photo-container">
-<img src="https://i.imgur.com/cEkbpCj.png" alt="">
+<img src="https://i.imgur.com/l0JqAVZ.png" alt="">
 </div>
 
 ## Account upgrade
