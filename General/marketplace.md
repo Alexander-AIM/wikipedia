@@ -41,5 +41,5 @@ Accesând anunțul jucătorului vei avea mai multe opțiuni oferite:
     - Details: Aici sunt oferite detalii de către proprietar și elementele de tuning care sunt pe vehiculul respectiv.
 
 <div class="photo-container">
- <img src="https://i.imgur.com/7qIhAIF.jpeg" alt="">
+ <img src="https://i.imgur.com/XVo9BE6.png" alt="">
  </div>
