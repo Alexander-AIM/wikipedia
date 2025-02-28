@@ -12,7 +12,7 @@ Businessurile (a.k.a biz-urile) sunt afaceri virtuale pe care orice jucător le 
 ## Informații generale despre afaceri
 - Ai nevoie de level 15 pentru a putea cumpăra o afacere prin `/trade`
 - Dacă deții o afacere suma de bani pe care o vei primi va fi 100%, cu excepția celor de tip **Bank**, acestea având un câștig de 50% din taxa încasată
-- Afacerile de tip **Store** vor primi 3% din vânzarea peștilor / făinei
+- Afacerile de tip **Store** vor primi 3% din vânzarea peștilor.
 - Poți vedea producția oricărei afaceri pe panel
 
 
