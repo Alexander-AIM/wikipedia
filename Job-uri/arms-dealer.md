@@ -45,7 +45,7 @@ Pentru a începe să aduni „Metal Scraps”, urmează acești pași:
 - Localizează waypoint-ul: Urmează indicatorul marcat de server (waypoint-ul) către locația desemnată.  
 - Elimină gardienii: Odată ajuns la waypoint, elimină toți NPC-urile care păzesc cutia.  
 - Colectează cutia (Metal Box): După ce ai învins toți inamicii, mergi la cutie (sau intră în clădirea unde se află aceasta) și apasă tasta E pentru a o colecta.
-- Transformă crate-ul: Ulterior, pentru a transforma crate-ul primit în inventar în „Metal Scraps” si un Blueprints, apasă pe acesta, apoi pe opțiunea 'Use' langa NPC-ul job-ului.
+- Deschide crate-ul: Ulterior, poți deschide crate-ul primit în inventar și primești „Metal Scraps” și o șansă de 33% de a primi Blueprint.
 
 ## Transformare „Metal Scraps” în materiale
 
