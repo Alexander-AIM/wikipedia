@@ -15,3 +15,8 @@ Totodată, în colțul din dreapta jos al inventarului vei putea vizualiza obiec
     <p><img src="https://i.imgur.com/r34rL0l.png" alt="Arată" title="Arată"></p>
     <p><img src="https://i.imgur.com/xYvC6e0.jpeg" alt="Arată" title="Arată"></p>
 </details>
+
+<div class="danger-container">
+    <p class="title">Info!</p>
+    <p class="description">Sloturile de inventar se pot mări, achiziționându-le din /shop, la categoria Normal.</p>
+</div>
