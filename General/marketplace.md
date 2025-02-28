@@ -33,7 +33,7 @@ După ce ai selectat ce vrei să adaugi ca și anunț, trebuie să adaugi următ
 
 *Titlul este pus automat de către sistem, în funcție de bunul pe care îl vinzi.
 
-La final, trebuie să adaugi detaliile bunului pe care îl deții, după ce-ai făcut acest lucru, trebuie să apeși butonul **Publică anunțul** și apăsând butonul **Confirm**, anunțul tău va fi listat pe market.
+La final, trebuie să adaugi orice alte detalii pe care le consideri relevante despre anunțul tău. De reținut faptul că, dacă încerci să vinzi un vehicul, dotările acestuia vor fi listate direct de către sistem în momentul în care apeși pe butonul „Publică”
 
 Accesând anunțul jucătorului vei avea mai multe opțiuni oferite:
     - Opțiunea de a apela sau a trimite un mesaj text jucătorului, dacă acesta este online.
