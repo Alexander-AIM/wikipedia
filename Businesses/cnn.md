@@ -12,5 +12,5 @@ Dacă anunțul postat de tine încalcă regulamentul serverului acesta poate fi 
     <li>Conține limbaj vulgar.</li>
     <li>Este scris cu caps lock.</li>
     <li>Este un anunț de tip free chat.</li>
-    <li>Conține emoticoane. chat.</li>
+    <li>Conține emoticoane.</li>
 </ul>
