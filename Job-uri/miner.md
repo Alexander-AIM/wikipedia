@@ -134,6 +134,10 @@ Costurile pentru upgrade variază în funcție de tipul de **târnacop** deținu
     <p>Upgrade-ul +9 costă <span style="color: blue">1.350 BPoints</span></p>
 </details>
 
+<div class="danger-container">
+    <p class="title">Info</p>
+    <p class="description">Odata ce ajungi la Skill 5 si dai upgrade la tarnacopul 'Diamond Pickaxe", o sa incepi sa ai sansa sa minezi 'Emeral Ore'.</p>
+</div>
 ## Skill
 
 | Skill Level | Value |
