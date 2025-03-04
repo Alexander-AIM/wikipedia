@@ -140,6 +140,12 @@ Costurile pentru upgrade variază în funcție de tipul de undiță deținută �
     <p class="description">Atunci când vei avea skill 6 și undița <span style="color:blue">Premium</span>, vei avea 2% șansă de a primi puncte premium în timp ce pescuiesti și totodată pestele 'Pilchard Fish' nu-l vei mai putea obține.</p>
 </div>
 
+<div class="danger-container">
+    <p class="title">Info</p>
+    <p class="description">Odata ce ajungi la Skill 5 si detii undita "Diamond Rod", o sa incepi sa prinzi Sea Star.</p>
+</div>
+
+
 ## Preturi Pesti
 
 <table>
