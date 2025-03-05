@@ -15,7 +15,7 @@ Clanurile sunt grupări de jucători conduse de către un lider și co-lideri. P
 - [/c] - chatul clanului.
 - [/ca] - chatul clanului cu alianța.
 - [/cvr] - respawnezi mașinile clanului. (rank 6+, cei care sunt în vehiculele clanului deja nu se vor respawna)
-- [/cpack] - parchezi o mașina a clanului. (rank 6+)
+- [/cpark] - parchezi o mașina a clanului. (rank 6+)
 - [/cv] - deschizi meniul vehiculelor a clanului.
 - [/cinvite] - inviți un jucător în clan. (rank 5+)
 - [/cmotd] - vezi mesajul zilei a clanului.
