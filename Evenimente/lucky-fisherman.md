@@ -16,6 +16,18 @@ Lângă zona ta de pescuit, se află un **Market** (marcat pe harta cu un coș d
 ### Cum parasesc evenimentul?
 Pentru a face acest lucru, foloseste '/leavelucky'.
 
+### Cum fac sa prind mai multi pesti?
+
+Urmatoarele upgrade-uri o sa iti permita sa prinzi mai mult de 1 peste:
+**Legend Account** +1 peste
+**Backpack Level 4** +1 peste
+**Backpack level 5** +2 pesti
+
+*Daca ai backpack level 4 si Account Legend, o sa poti prinde 3 Pesti.
+*Daca ai backpack level 5 si Account Legend, o sa poti prinde 4 Pesti.
+
+**Beneficiile de nivel de backpack **NU** se cumuleaza
+
 ### Care sunt raritățile de pește și culorile acestuia?
 
 | Raritate      |      Culoare  |
