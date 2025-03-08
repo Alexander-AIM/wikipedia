@@ -28,7 +28,7 @@ Zilnic, poți să-ți încerci norocul gratuit la așa zisa **Roata norocului**.
 
 
 ### Nivel 2
-- **Vehicul**: *bhodgechallengerrth97* 
+- **Vehicul**: *bhert190eevo290* 
 - **Bani**: între $350,000 și $500,000 
 - **Voucher**: 50 PP 
 - **Premium Account**: 12 zile 

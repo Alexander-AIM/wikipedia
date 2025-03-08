@@ -536,14 +536,6 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
     <p><img src="https://i.imgur.com/8r5EFXY.png"></p>
 </details>
 
-## Unde se află aeroportul abandonat din Grapeseed (McKenzie Field)?
-
-<details class="details custom-block">
-    <summary>Locație</summary>
-    <p><img src="https://i.imgur.com/XuIeop6.png"></p>
-    <p><img src="https://i.imgur.com/cZeFaWl.png"></p>
-</details>
-
 ## Ce durabilitate are un anumit item?
 | Item           | Durabilitate |
 |----------------|--------------|
