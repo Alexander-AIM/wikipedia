@@ -1,8 +1,7 @@
-<!-- Descriere mugshot --> 
 <h1>Mugshot</h1><br><br> 
-<p>La noi pe server, avem un sistem de Mugshot care îți înregistrează trăsăturile feței, precum și vestimentația pe care o ai, și este folosit apoi în Stats UI, precum și pe Panel, la secțiunea "My Profile". Acesta poate fi actualizat o dată la 24 de ore.</p>
 
-Cladirea unde se realizează Mugshot-ul:
+<strong>La noi pe server, avem un sistem de Mugshot care îți înregistrează trăsăturile feței, precum și vestimentația pe care o ai, și este folosit apoi în Stats UI, precum și pe Panel, la secțiunea "My Profile". Acesta poate fi actualizat o dată la 24 de ore.</strong>
+## Cladirea unde se realizează Mugshot-ul:
 
 <div class="photo-container"> 
 <img src="https://i.imgur.com/oIXi1KT.png" alt=""> 
