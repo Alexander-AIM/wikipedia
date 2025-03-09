@@ -43,3 +43,8 @@ Accesând anunțul jucătorului vei avea mai multe opțiuni oferite:
 <div class="photo-container">
  <img src="https://i.imgur.com/XVo9BE6.png" alt="">
  </div>
+
+## Taxele percepute pe market sunt urmatoarele:
+
+- 5% pentru Clothes, Vouchers, Materiale, Colors, Guns si Drugs
+- 3% Pentru Houses, Jobs, Vehicles si Business
