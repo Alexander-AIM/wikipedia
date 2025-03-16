@@ -256,7 +256,9 @@ Premii: <strong>Money, Fish Bones, String, Rob Points, Cont Premium. Ciocolata 6
 
 
 ## Spring V3 Crate 🌸
-
+<p>
+    <img width="200" src="https://i.imgur.com/4DmS9Gw.png" alt="Cupidon V3 crate">
+</p>
 
 ❗Acest crate se poate achiziționa pentru suma de **$15.000.000** sau de 6969 **BPoints**
 
