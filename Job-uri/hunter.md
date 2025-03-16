@@ -25,16 +25,18 @@ Atunci când vei începe muncă, vei primi vehicul de tip **veloraphunt** pe per
 </details>
 
 
-Apasă pe tasta `R` când nu te afli în vehicul pentru a activa radarul și a vedea poziția animalelor pe harta. Prețul radarului este de $50.000 înmulțit cu skill-ul tău. Totodată, cooldown-ul radarului va fi scăzut cu câte 15 secunde pentru fiecare animal omorât.  
+Apasă pe tasta **R** când nu te afli în vehicul pentru a activa radarul și a vedea poziția animalelor pe harta. Acesta are un delay de 30 de secunde. Pretul acestuia costa suma de $1,000.
 
-Odată ajuns, dă-te jos din mașină și începe să vânezi animalele cu arma primită la începerea job-ului. După ce ai omorât un animal, mergi la el, echipează cutitul și apasă tasta **Y** pentru a recolta itemele oferite de fiecare tip de animal.  
+Îți poți schimba zona de vânătoare în momentul în care mai ai 2 animale ramane, folosind tasta **Y**
+
+Odată ajuns, dă-te jos din mașină și începe să vânezi animalele cu arma primită la începerea job-ului. După ce ai omorât un animal, mergi la el, echipează cutitul și apasă tasta **E** pentru a recolta itemele oferite de fiecare tip de animal.  
 Nu este o limită de animale vânate maxim, dar vei fi nevoit să te întorci înapoi la job pentru a reîncepe job-ul, deoarece ai un număr limitat de gloante.  
 
 ## Cum pot activa vederea termică la arma de skill 6?  
 Pentru a activa vederea termică, apasă pe tasta E atunci când țintești.  
 
 ##  Ce skin ticket îmi oferă avantaj la acest job?  
-Singurul skin  ticket ce-ți oferă avantaj la acest job este cel de tip **Winter V2**. Acesta îți oferă o șansă de 33% să primești 2 puncte premium atunci când ucizi un Alien.  
+Singurul skin  ticket ce-ți oferă avantaj la acest job este cel de tip **Winter V2**. Acesta îți oferă o șansă de 15% de a primi dublu puncte premium atunci când omori un extraterestru.
 
 ### Ce arme primesc la fiecare skill la 'Hunter' dacă o îmbunătățesc?  
 Skill 2 - **Sawnoff**  
@@ -51,8 +53,6 @@ Skill 4 - Deer, Boar și Mountain Lion
 Skill 5 - Panther, Alien, Boar și Mountain Lion  
 Skill 6 - Panther, Alien, Bear și Mountain Lion  
 
-Informații:  
-'**Alien**' îl vei putea vâna doar dacă ai armă avansată de la skill 5. Vei primi câte 1 punct premium pe fiecare alien vânat.  
 
 ## Skill
 
@@ -149,3 +149,30 @@ Informații:
     <tr><td>7. Panther Fur</td><td>36500$</td><td>38500$</td></tr>
     <tr><td>8. Bear Fur</td><td>48000$</td><td>52000$</td></tr>
 </table>
+
+
+## Alien Spawn
+Cand ucizi un extraterestru, acesta va exploda si vei primi aleatoriu intre 2-3 puncte premium. 
+În functie de skill, există o posibilitate de a se spawna un extraterestru:
+
+- Skill 1: 3% sansa
+- Skill 2: 5% sansa
+- Skill 3: 6% sansa
+- Skill 4: 8% sansa
+- Skill 5: 10% sansa
+- Skill 6: 12% sansa
+
+
+### Viata extraterestrului variaza in functie de skill:
+- Skill 1 & 2 - extraterestrul necesita 3 hit-uri pentru a muri.
+- Skill 3 & 4 - extraterestrul necesita 2 hit-uri pentru a muri.
+- Skill 5 & 6 - extraterestrul necesita un singur hit pentru a muri.
+
+## B-Points
+În functie de skill, există o posibilitate de a primi 50 'B-Points' la lootarea animalului:
+- Skill 1: 10% sansa
+- Skill 2: 20% sansa
+- Skill 3: 30% sansa
+- Skill 4: 40% sansa
+- Skill 5: 50% sansa
+- Skill 6: 60% sansa
