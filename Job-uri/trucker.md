@@ -54,7 +54,8 @@ La cursele ilegale, în momentul descărcării vei putea primi **"Wanted 2"**. T
 Comenzile disponibile pentru a crea un convoy "/inviteconvoy", iar pentru a iesi dintr-un convoy "/leaveconvoy".
 Membrii convoy-ului se vor vedea permanent pe harta daca se afla in raza. Cei care se indeparteaza la mai mult de 2.000m de lider, vor fi scosi automat din convoy. Toti membrii convoy-ului vor avea aceeasi destinatie, stabilita de catre lider. In timp ce fac parte dintr-un convoy, playerii vor avea disponibila o frecventa speciala exclusiva. Jucatorii vor trebui sa detina o statie care sa fie pornita, pentru a crea sau a putea fi invitati intr-un convoy.
 
-** Beneficii convoy:**
+** Beneficii convoy: **
+
 Jucatorii vor primi puncte premium in functie de skill:
 - Skill 1 - 1pp
 - Skill 2 - 1pp
