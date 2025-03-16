@@ -22,8 +22,13 @@ Activitatea principala a job-ului Fisherman este pescuitul. Dupa ce ai pescuit, 
 Pentru a incepe munca este necesar sa achitionezi urmatoarele bunuri dintr-un business de tip 24/7:
 - Rod (Undita)
 - Bait (Momeala)
-  
+
+
 După ce ai aruncat undița, aștepți să vină peștele că să-l poți aduce la mal. Vei fi sesizat de acea bară de mai jos când peștele este prins. Tu o să trebuiască să ții click stânga, doar cât o să fie bara 'verde' pentru a nu rupe firul la undiță, apoi lași de click și faci procedura asta până aduci peștele la mal.
+
+Durabilitatea la o undiță este de 100 pesti.
+Nu poți cumpara mai mai multe undițe. Totodată, dupa ce o cumperi nu o poți arunca (dropa).
+
 
 <details class="details custom-block">
   <summary><strong>Demo</strong></summary>
