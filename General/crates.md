@@ -232,6 +232,10 @@ Premii: <strong>Money, Fish Bones, String, Rob Points, Cont Premium. Ciocolata 6
 
 ## Spring V3 Crate
 
+<p>
+    <img width="200" src="https://i.imgur.com/4DmS9Gw.png" alt="Cupidon V3 crate">
+</p>
+
 Prețul: <strong><span style="color: #8003fc;">6969 de B-Points</span> / <span style="color: #fcba03;">15.000.000$</span></strong>.
 
 Premii: <strong> Respect Points, Vip account (15 days), Rob Points, BPoints (6969), Free Spin(2x), Extended Battery Ticket, Legend Account (10 days), Voucher 100pp, Vip Car Ticket, Voucher 250pp, Voucher 500pp, Navy Revolver, 777 Premium Points, Ticket Discount M8 10%, Ticket Discount Huracan 10% </strong>
