@@ -546,3 +546,12 @@ prețul crește la **150 Premium Points pe zi**. Pentru cei care au primit o int
 | rod ind fish   | 250          |
 | rod fish       | 250          |
 
+
+## Voucherele de puncte premium sunt limitate?
+Voucherele de puncte premium au fost limitate in trade si market. Voucherele nu vor putea fi vandute impreuna cu alte iteme/masini/job-uri/biz-uri/case. Suma de bani va fi limitata in functie de tipul voucher-ului.
+Limita de bani in functie de voucher:
+Voucher 50pp   - $2,500,000
+Voucher 100pp  - $5,000,000
+Voucher 250pp  - $12,500,000
+voucher 500pp  - $25,000,000
+Voucher 1000pp - $50,000,000
