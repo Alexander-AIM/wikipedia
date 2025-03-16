@@ -73,7 +73,7 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
   </tr>
   <tr>
     <td style="color:#5FB6E0;"><strong>Winter Ticket V2</strong></td>
-    <td>15% șansă de a primi 2pp/alien, 33% șansă de 2x la ‘Miner’/‘Industrial’, 5% șansă de 3x ‘Miner’/‘Industrial’</td>
+    <td>15% de a dubla punctele premium obtinute de la alien., 33% șansă de 2x la ‘Miner’/‘Industrial’, 5% șansă de 3x ‘Miner’/‘Industrial’</td>
   </tr>
   <tr>
     <td style="color:#e31467;"><strong>Cupidon Ticket V2</strong></td>
