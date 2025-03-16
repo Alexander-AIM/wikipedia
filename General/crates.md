@@ -229,7 +229,6 @@ Premii: <strong>Money, Fish Bones, String, Rob Points, Cont Premium. Ciocolata 6
 </strong>
 <p style="width: 50%; border: 1px solid #ffffff;"></p>
 
-
 ## Spring V3 Crate 🌸
 <p>
     <img width="200" src="https://i.imgur.com/4DmS9Gw.png" alt="Cupidon V3 crate">
