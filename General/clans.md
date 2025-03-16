@@ -124,7 +124,7 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 Poti obtine materiale, bani si puncte premium ce vor intra in seiful clanului.
 
 ### Cum colectez clan drop-ul?
-Pentru a face asta, apasa pe tasta 'E'.
+Pentru a face asta, apasa pe tasta 'E'. Poti participa la Clan Drop doar atunci cand esti "Clan Duty".
 
 ## Top Speed Masini clan:
 - Overflod Tyrant - aproximativ 203Km/h
