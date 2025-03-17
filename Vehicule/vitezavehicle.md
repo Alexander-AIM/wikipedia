@@ -7,7 +7,7 @@
 <li> Pentru a-ti fi mai usor in a-ti gasi viteza vehicului dorit, insereaza mai jos numele acestuia sau spawncode-ul.</li>
 </div>
 <br><br>
-<iframe src="components/calculator.html" width="60%" height=auto; frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
+<iframe src="components/calculator.html" width="60%" height=300px; frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
 
 ## Cum se calculeaza stage-ul?
 Stage 1 = Viteza stock * 1.1<br>
