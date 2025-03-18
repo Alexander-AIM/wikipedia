@@ -81,8 +81,8 @@
 <h2>Race Points</h2>
 <p>Aceste puncte sunt utile pentru tunarea vehiculelor.</p>
 <ul>
- <li><strong>Gift Box:</strong> Oferă B-Points, deschizând cutii cu comanda <code>[/getgift]</code>.</li>
- <li><strong>Crates:</strong> Deschizând cutii cu <code>[/crates]</code>, poți câștiga B-Points.</li>
+ <li><strong>Gift Box:</strong> Oferă Race Points, deschizând cutii cu comanda <code>[/getgift]</code>.</li>
+ <li><strong>Crates:</strong> Deschizând cutii cu <code>[/crates]</code>, poți câștiga Race Points.</li>
  <li><strong>Repo Work:</strong> În funcție de câte ai completat consecutive la rând în ziua respectivă sau dificultate.</li>
  <li><strong>Stunts:</strong> După ce termini întreg setul de Stunt-uri, primești o sumă de puncte.</li>
  <li><strong>Race Arena:</strong> În funcție de lungimea traseului ales, modul de cursă și locul pe care l-ai obținut.</li>
