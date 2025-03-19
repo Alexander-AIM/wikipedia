@@ -109,12 +109,16 @@ Ai sansa de 50% sa primesti scoica si 50% sansa sa primesti 'Workers Crate.
 
 
 ## Fishbot
+Acest sistem se poate accesa folosind comanda /fishbot.
 Prin intermediul acestui sistem, pescuiesti automat, fara a face nimic.
 Sistemul include optiuni de 'Auto Open Fishes' si 'Auto Open Shells' (optionale).
 Interfata are doua variante (mica si mare), iar in cea mare sunt afisate informatii despre captura ta.
 Timpul licentei se consuma doar atunci cand fisbot-ul este activ.
 
-Acest sistem se poate accesa folosind comanda /fishbot.
+### Licenta
+Aceasta poate fi cumpara pe ora, o ora avand pretul de $4,000,000.
+Nu poti cumpara mai mult de 3 ore zilnic. Aceasta limita se reseteaza zilnic la ora 07:00.
+Licenta nu poate depasi 12 ore cumulate de la o zi la alta.
 
 ### Cat timp este fishbot-ul activ:
 - Durabilitatea unditei nu este consumata.
