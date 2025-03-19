@@ -41,11 +41,3 @@
     <li><strong>Stunt Jumps</strong> - 20 puncte de experiență</li>
 </ul>
 
-<h2>Ce fac cu minereurile, peștii, blănurile primite?</h2>
-<p>Aceste iteme pot fi vândute la NPC-urile din cadrul job-urilor respective:</p>
-<ul>
-    <li><strong>Minereuri</strong> - pot fi vândute la NPC-ul din cadrul job-ului “Miner”</li>
-    <li><strong>Pesci</strong> - pot fi vânduți la NPC-ul din cadrul job-ului “Industrial Fisherman”</li>
-    <li><strong>Blănuri</strong> - pot fi vândute în cadrul job-ului respectiv</li>
-</ul>
-
