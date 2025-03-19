@@ -106,3 +106,29 @@ Ai sansa de 50% sa primesti scoica si 50% sansa sa primesti 'Workers Crate.
   <summary>24/7</summary>
   <img src="https://i.imgur.com/U7SU13N.jpeg" alt="Grafic skill up">
 </details>
+
+
+## Fishbot
+Prin intermediul acestui sistem, pescuiesti automat, fara a face nimic.
+Sistemul include optiuni de 'Auto Open Fishes' si 'Auto Open Shells' (optionale).
+Interfata are doua variante (mica si mare), iar in cea mare sunt afisate informatii despre captura ta.
+Timpul licentei se consuma doar atunci cand fisbot-ul este activ.
+
+Acest sistem se poate accesa folosind comanda /fishbot.
+
+### Cat timp este fishbot-ul activ:
+- Durabilitatea unditei nu este consumata.
+- Nu vei primi skill
+- Nu vei profresa in misiuni (Battlepass, Activity Quests etc.).
+- Momeala nu este necesara si nu se consuma.
+- Vei avea 'Passive Mode' activ (nu vei putea muri).
+- Nu vei mai auzi sunetele de la pesti.
+- Poti pescui chiar si cu jocul minimizat.
+- Nu se vor putea lua contracte pe tine.
+
+### Fishbot-ul se dezactiveaza automat daca:
+- Inventarul tau este plin.
+- Esti urmarit de politie.
+- Nu detii o undita.
+- Nu esti pozitionat corect spre apa.
+- Te afli intr-un vehicul.
