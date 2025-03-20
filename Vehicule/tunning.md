@@ -46,7 +46,7 @@
 
 <p><strong>Wheel Types</strong> - Alege din sute de modele de jante pentru a-ți personaliza vehiculul. Acestea pot fi cumpărate cu <span class="highlight">Bani</span>, <span class="highlight">Puncte Premium</span> sau <span class="highlight">Race Points</span>.</p>
 
-<p><strong>ESP Toggle</strong> - Activă sau dezactivază modul drift al vehiculului tău cu această opțiune. <span class="important">Preț: Puncte Premium</span>.</p>
+<p><strong>ESP Toggle</strong> - Activeaza sau dezactivază modul drift al vehiculului tău cu această opțiune. <span class="important">Preț: Puncte Premium</span>.</p>
 
 <p><strong>Tire Smoke</strong> - Schimbă culoarea fumului rezultat din drifturi, burnouts sau derapaje. <span class="important">Preț: Race Points</span>.</p>
 
