@@ -14,7 +14,7 @@
 Pentru a incepe munca trebuie sa intri in interiorul cladirii si sa alegi una din cele 2 optiuni:
 
 - Deliveries - doar livrezi pizza la locatiile marcate pe harta
-- Pizza Preparation + delivery (Skill 3) - Prepari pizza, o incarci in vehicul si o livrezi la locatiile marcate pe harta
+- Pizza Preparation + delivery (Skill 4) - Prepari pizza, o incarci in vehicul si o livrezi la locatiile marcate pe harta
 
 ### In momentul in care incepi munca iti va fi oferit un vehicul de tip **pizzarhapso** cu care vei putea munci.
 
