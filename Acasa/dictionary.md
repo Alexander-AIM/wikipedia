@@ -22,5 +22,4 @@ Această pagină a fost creată special pentru noii jucători care încă nu sun
         <li><span class="highlight gg">AFK</span> - înseamnă ca un jucător lipsește mai mult timp de la tastatură.</li>
         <li><span class="highlight gg">BRB</span> - însemna ca un jucător pleacă câteva minute de lângă tastatură și revine.</li>
         <li><span class="highlight gg">Checkpoints</span>  - sanctiune acordata in urma încalcarii regulamentului.</li>
-        test
 </ul>
