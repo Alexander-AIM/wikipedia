@@ -33,5 +33,3 @@ Jucatorii ce detin servieta nu vor putea fi localizati si nu vor putea avea un c
 - Jucatorul nu trebuie sa fie in jail.
 - Jucatorul nu trebuie sa fie pe /sleep sau AFK
 - Jucatorul nu trebuie sa aiba un 'Repo Work' activ.
-
-   # Soon
