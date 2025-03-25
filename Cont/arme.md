@@ -136,7 +136,7 @@
         </tr>
         <tr>
             <td>Navy Pistol</td>
-            <td>Spring V3</td>
+            <td>Spring V3 Crate</td>
             <td>0</td>
             <td>5</td>
             <td>2,500</td>
