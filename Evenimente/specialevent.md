@@ -2,7 +2,7 @@
 # Special Event 💵
 <br><br>
 
-Evenimentul **Special Event** consta in o multitudine de evenimente evenimente toate pornite in acelasi timp, pentru aceeasi duarata de timp.
+Evenimentul **Special Event** constă în o multitudine de evenimente toate pornite în același timp, pentru aceeași duarata de timp.
 
 <div class="danger-container">
     <p class="description">La acest eveniment nu este necesar sa folosesti <strong>o anumita comanda</strong> pentru a participa.</p>
