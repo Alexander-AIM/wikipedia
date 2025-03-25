@@ -134,6 +134,13 @@
             <td>4.5</td>
             <td>2,500</td>
         </tr>
+        <tr>
+            <td>Navy Pistol</td>
+            <td>Spring V3</td>
+            <td>0</td>
+            <td>5</td>
+            <td>2,500</td>
+        </tr>
     </tbody>
 </table>
 
