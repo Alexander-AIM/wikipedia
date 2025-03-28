@@ -15,39 +15,39 @@ Exista 5 tipuri de dropbox: Normal, Rare, Epic, Mythic, Legendary. Acestea difer
 
 ## Tipuri si premii:
 ## Normal Drop: (5000-7000 HP)
-<p>Locul 1-3: 250, 200, 150 BPoints
-<p>Locul 4-6: 15, 10, 5 Respect Points
-<p>Locul 7+: 20$ * damage acordat, ceilalti: 10$ * damage acordat
+- Locul 1-3: 750, 500, 350 B-Points
+- Locul 4-6: 25, 20, 15 Respect Points
+- Locul 7+: 200$ * damage acordat, ceilalti: 100$ * damage acordat
 
 ## Rare Drop (7500-10000 HP)
-<p>Locul 1: sansa 20% Rare Voucher (50pp)
-<p>Locul 1-3: 35, 25, 15 Premium Points
-<p>Locul 4-6: 300, 250, 200 BPoints
-<p>Locul 7-8: 15, 10 Respect Points
-<p>Locul 9+: 30$ * damage acordat, ceilalti: 15$ * damage acordat
+- Locul 1: Sansa Rare Voucher (50 puncte premium)
+- Locul 1-3: 50, 35, 25 Premium Points
+- Locul 4-6: 750, 500, 350 B-Points
+- Locul 7-8: 25, 20 Respect Points
+- Locul 9+: 350$ * damage acordat, ceilalti: 250$ * damage acordat
 
 ## Epic Drop (12500 - 15000 HP)
-<p>Locul 1: sansa 15% Epic Voucher (100pp)
-<p>Locul 1-3: 50, 35, 20 Premium Points
-<p>Locul 4-6: 350, 250, 200 BPoints
-<p>Locul 7-8: 250, 150 Gift Points
-<p>Locul 9+: 36$ * damage acordat, ceilalti: 18$ * damage acordat
+- Locul 1: Sansa Epic Voucher (100 puncte premium)
+- Locul 1-3: 80, 50, 35 Premium Points
+- Locul 4-6: 1000, 750, 600 B-Points
+- Locul 7-8: 4, 3 Rob Points (Free Points daca esti dintr-un departament)
+- Locul 9+ 425$ * damage acordat, ceilalti: 350$ * damage acordat
 
 ## Mythic Drop (17500 - 20000 HP)
-<p>Locul 1: sansa 10% Mythic Voucher (250pp)
-<p>Locul 1-3: 50, 40, 35 Premium Points
-<p>Locul 4-5: 400, 333 BPoints
-<p>Locul 6-7: 300, 250 Gift Points
-<p>Locul 8+: 42$ * damage acordat, ceilalti: 21$ * damage acordat
-<p>+ Workers Crate sau Moonlight Crate unui participant
+- Locul 1: Sansa Mythic Voucher (250 puncte premium)
+- Locul 1-3: 150, 100, 75 Premium Points
+- Locul 4-5: 1200, 1000 B-Points
+- Locul 6-7: 5, 4 Rob Points (Free Points daca esti dintr-un departament)
+- Locul 8+: 500% * damage acordat, ceilalti: 400$ * damage acordat
+- Workers Crate sau 2x Moonlight Crate unui singur participant random
 
 ## Legendary Drop (25000 HP):
-<p>Locul 1: sansa 10% Legendary Voucher (500pp)
-<p>Locul 1-3: 69, 50, 40 Premium Points 
-<p>Locul 4-5: 500, 400 BPoints
-<p>Locul 6-7: 350, 300 Gift Points
-<p>Locul 8+: 50$ * damage acordat, ceilalti: 25$ * damage acordat
-<p>+ Random Crate unui participant
+- Locul 1: Sansa Legendary Voucher (500 puncte premium)
+- Locul 1-3: 250, 150, 100 Premium Points
+- Locul 4-5: 1500, 1200 B-Points
+- Locul 6-7: 7, 5 Rob Points (Free Points daca esti dintr-un departament)
+- Locul 8+ 600$ * damage acordat, ceilalti: 500$ * damage acordat
+- Random Crate unui participant (exceptie Lucky or Not Crate si Beginner Crate)
 
 ## Care este intervalul de spawnare a cutiilor?
 
