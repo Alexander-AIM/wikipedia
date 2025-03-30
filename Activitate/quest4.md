@@ -15,5 +15,5 @@
 - Quest-ul se reseteaza zilnic la ora 7 dimineata daca l-ai finalizat.
 - Quest-ul dispune de comanda (/questinfo) prin care poti vedea mai multe informatii despre quest.
 ## Premiu: 
-- 1250 bpoints, 30 pp, $6,000,000, 4x house ticket, 50%  crate spring
+- 1250 bpoints, 30 pp, $6,000,000, 4x house ticket, 50% sansa de a primi crate 'Spring'.
 
