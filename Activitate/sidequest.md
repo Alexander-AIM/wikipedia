@@ -1,6 +1,6 @@
-# Sidequest
+# Sidequest <brt><br>
 
-## Acest sidequest implica strangerea a 11 litere de pe insula Cayo Perico pentru a completa cuvantul **'BROTHERHOOD'**
+### Acest sidequest implica strangerea a 11 litere de pe insula Cayo Perico pentru a completa cuvantul **'BROTHERHOOD'**
 
 - Sidequest-ul nu are un 'Quest Party'.
 - In total sunt 100 de locatii, jucatorul primeste 15 random din care trebuie sa gaseasca doar 11 pentru a completa tot cuvantul
