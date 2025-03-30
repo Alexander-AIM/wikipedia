@@ -1,4 +1,4 @@
-# Sidequest <brt><br>
+# Sidequest <br><br>
 
 ### Acest sidequest implica strangerea a 11 litere de pe insula Cayo Perico pentru a completa cuvantul **'BROTHERHOOD'**
 
