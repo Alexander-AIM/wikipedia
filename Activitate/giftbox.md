@@ -6,7 +6,7 @@ Pentru a deschide Giftbox-ul, folosește comanda /getgift la locația acestuia.
 
 ## Premii posibile în giftbox
 
-| #   | Nume premiu              | Cantitate                         | Șansă (%) |
+| #   | Premiu                   | Cantitate                         | Șansă (%) |
 |-----|--------------------------|-----------------------------------|-----------|
 | 1   | Ticket Reset Stunts      | —                                 | 10        |
 | 2   | BPoints                  | intre 2000 si 3500                | 7         |
