@@ -15,4 +15,4 @@
 - Quest-ul dispune de comanda (/questinfo) prin care poti vedea mai multe informatii despre quest.
 - 
 ## Premiu: 
-- 1000 bpoints, 25 pp, $5,000,000, 2x house ticket, 33% crate halloween
+- 1000 bpoints, 25 pp, $5,000,000, 2x house ticket, 33% sansa de a primi 'Halloween Crate'.
