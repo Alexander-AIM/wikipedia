@@ -19,7 +19,7 @@
 - La a 7-a etapa trebuie sa folosesti (/questinfo), sa dai pe butonul "Prepara", sa mergi la bunica, sa apesi Y si de acolo te va indruma catre locatia de unde poti face zacusca. Ajuns acolo, trebuie sa iei legumele pe rand din vehicul (cu tasta Y) si sa le pui in cazan. La sfarsit, trebuie sa gusti si vei primi un premiu special.
 
 
-● Quest-ul se reseteaza zilnic la ora 7 dimineata daca l-ai finalizat.
-● Quest-ul dispune de comanda (/questinfo) prin care poti vedea mai multe informatii despre quest.
-● Premiu: 
-	- 2500 bpoints, 50 pp, $10,000,000, 6x house ticket, 1x crate autumn
+- Quest-ul se reseteaza zilnic la ora 7 dimineata daca l-ai finalizat.
+- Quest-ul dispune de comanda (/questinfo) prin care poti vedea mai multe informatii despre quest.
+## Premiu: 
+- 2500 bpoints, 50 pp, $10,000,000, 6x house ticket, 1x crate autumn
