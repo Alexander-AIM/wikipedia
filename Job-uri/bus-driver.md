@@ -19,8 +19,8 @@ Pentru a incepe sa muncesti folosindu-te de acesta, mergi aproape de NPC-ul de l
 
 | Skill Level | Value |
 |-------------|-------|
-| Skill 2     | 40    |
-| Skill 3     | 90    |
-| Skill 4     | 150   |
-| Skill 5     | 220   |
-| Skill 6     | 300   |
+| Skill 2     | 800    |
+| Skill 3     | 1800   |
+| Skill 4     | 3000   |
+| Skill 5     | 4400   |
+| Skill 6     | 6000   |
