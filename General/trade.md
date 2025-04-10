@@ -31,6 +31,14 @@ Pentru a începe un trade cu un jucător folosește `/trade`.
     <p class="description">Nu se poate efectua un trade în care se dau bani pe bani.</p>
 </div>
 <br>
+
+<br>
+<div class="danger-container">
+    <p class="title">ATENȚIE!</p>
+    <p class="description">Voucherele de 'Puncte Premium' nu pot fi schimbate cu alte obiecte. Acestea pot fi doar vandute pe bani altor jucatori. Atunci cand un voucher este adaugat in trade, nu poate fi vandut impreuna cu alte bunuri.</p>
+</div>
+<br>
+
 <div class="tip-container">
     <p class="title"></p>
     <p class="description">In cazul vehiculelor, dupa ce acesta a fost adăugat în lista, apăsând 'Right-click' 
