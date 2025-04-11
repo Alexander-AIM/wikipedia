@@ -34,11 +34,11 @@ Pentru a incepe sa muncesti folosindu-te de acesta, mergi aproape de NPC-ul de l
 
 | Skill Level | Value |
 |-------------|-------|
-| Skill 2     | 60    |
-| Skill 3     | 140   |
-| Skill 4     | 240   |
-| Skill 5     | 360   |
-| Skill 6     | 500   |
+| Skill 2     | 300   |
+| Skill 3     | 700   |
+| Skill 4     | 1200  |
+| Skill 5     | 1800  |
+| Skill 6     | 2500  |
 
 
 ## Câți bușteni pot colecta în funcție de skill?
