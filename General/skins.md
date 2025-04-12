@@ -92,6 +92,10 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
     <td style="color:#e31467;"><strong>Cupidon V3 Ticket</strong></td>
     <td> Vei primi cu 7% mai multi bani la toate rob-urile efectuate cu succes. Acesta ofera un punct de rob atunci cand efectuezi rob Yacht, doua puncte la rob 'ATM',  3 puncte la rob 'Museum' si 5 la efectuarea rob-ului 'Rob Heist'.</td>
   </tr>
+   <tr>
+    <td style="color:#e31467;"><strong>7th Anniversary Skin Ticket</strong></td>
+    <td> Timp necesar la payday pentru [/getgift] injumatatit (900s, in loc de 1800s), 45% job boost, 1pp la payday.</td>
+  </tr>
   
 </table>
 
