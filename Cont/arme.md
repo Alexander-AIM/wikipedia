@@ -264,6 +264,13 @@
             <td>4.5</td>
             <td>7,500</td>
         </tr>
+         <tr>
+            <td>Special Carbine MK II </td>
+            <td>Ap Shop</td>
+            <td>0</td>
+            <td>5</td>
+            <td>7,500</td>
+         </tr>
     </tbody>
 </table>
 
