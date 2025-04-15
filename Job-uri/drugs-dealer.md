@@ -34,7 +34,7 @@ Acțiunea job-ului Drugs Dealer se împarte în două activități aproape ident
   ● Când acestea cresc și le adunați, veți primi **Weak Kush** în inventar.  
   ● **Weak Kush** trebuie măcinat la zona pentru măcinat pentru a primi **Grinded Weak Kush**.  
   ● Pentru a crea un joint, veți avea nevoie de **o bucătă de Grinded Weak Kush**, o foită și un filtru (**foită** și **filtru** pot fi cumpărate de la 24/7).  
-  ● Joint-ul înlocuiește drogurile vechi și are același efect.  
+  ● Joint-ul se poate folosi din inventar, apăsând click pe acesta, iar apoi 'USE' și va regenera complet viața.
 
 
 ## Informații despre celelalte plante pentru livrat  
