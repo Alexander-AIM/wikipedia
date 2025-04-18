@@ -96,7 +96,10 @@ Nu există un Ticket universal, ci în funcție de nevoile tale, un ticket poate
     <td style="color:#e31467;"><strong>7th Anniversary Skin Ticket</strong></td>
     <td> Timp necesar la payday pentru [/getgift] injumatatit (900s, in loc de 1800s), 45% job boost, 1pp la payday.</td>
   </tr>
-  
+    <tr>
+    <td style="color:#e31467;"><strong>Easter V3 Ticket</strong></td>
+    <td> Sansa 20% sa primesti dublu puncte premium pentru fiecare aline omorat la jobul Hunter, sansa 33% sa primesti dublu iteme cand lootezi un animal la jobul Hunter, sansa 5% sa primesti triplu iteme cand lootezi un animal la jobul Hunter.</td>
+  </tr>
 </table>
 
 *Toate aceste tickete pot fi atât comercializate pe Market sau Trade, cât și aruncate pe jos.
