@@ -10,8 +10,8 @@ Informațiile privind locațiile acestuia sunt comunicate în chat-ul global în
     <p class="description">Pentru a participa la drop, trebuie să tragi cu o armă de foc în el.</p>
 </div>
 
-## Tipuri de Dropbox
-Exista 5 tipuri de dropbox: Normal, Rare, Epic, Mythic, Legendary. Acestea difera prin HP-ul pe care îl au și prin premiile ce pot fi câștigate din ele.
+## Tipuri de Dropbox  
+Există 5 tipuri de Dropbox: Normal, Rare, Epic, Mythic, Legendary. Acestea diferă prin HP-ul pe care îl au și prin premiile ce pot fi câștigate din ele.
 
 ## Tipuri si premii:
 ## Normal Drop: (5000-7000 HP)

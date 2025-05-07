@@ -1,8 +1,6 @@
 # Locații importante 📌
 <br><br>
-<p>Pe server exista sistemul de [/gps], unde vei putea ajunge la majoritate locațiilor importante. 
-Doar că uneori te vei lovi și de câteva locații care nu apar pe GPS. De exemplu cele din questurile speciale. 
-Mai jos ve-ți avea o lista cu toate locațiile importante care nu apar pe GPS și locația acestora.</p>
+<p>Pe server există sistemul de [/gps], unde vei putea ajunge la majoritatea locațiilor importante. Doar că uneori te vei lovi și de câteva locații care nu apar pe GPS, de exemplu, cele din questurile speciale. Mai jos vei avea o listă cu toate locațiile importante care nu apar pe GPS și locația acestora.</p>
 
 <h2>Unde se află Masion-ul de pe Cayo?</h2>
 <details class="details custom-block">

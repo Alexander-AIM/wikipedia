@@ -1,6 +1,4 @@
 # Payday 💰
-<br><br>
-
 La fiecare oră fixă, jucătorii activi pe server își vor primi salariul. Acesta constă în minutele active pe server până la ora fixă. Când payday-ul este acordat, un mesaj va apărea pe chat.
 
   • **Paycheck** - Salariul primit de către jucător.  
@@ -14,7 +12,7 @@ Suma maximă de bani pe care o poți avea în bancă pentru a primi dobânda max
 
 <div class="danger-container">
     <p class="title">ATENȚIE!</p>
-    <p class="description">Suma pe care o primesti la dobanda este influentata in cea mai mare parte de nivelul pe care il ai. Dobanda maxima o atingi odata ce ai nivel 100.</p>
+    <p class="description">Suma pe care o primești la dobândă este influențată în cea mai mare parte de nivelul pe care îl ai. Dobânda maximă o atingi odată ce ai nivel 100.</p>
 </div>
 
 
