@@ -18,5 +18,5 @@ Totodată, în colțul din dreapta jos al inventarului vei putea vizualiza obiec
 
 <div class="danger-container">
     <p class="title">Info!</p>
-    <p class="description">Sloturile de inventar se pot mări, achiziționându-le din /shop, la categoria Normal.</p>
+    <p class="description">Sloturile de inventar se pot mări, achiziționându-le din /shop, la categoria Normal sau facand upgrade la <b>Backpack</b>.</p>
 </div>

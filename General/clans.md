@@ -109,7 +109,14 @@ Cu ajutorul acestui meniu poți controla diferite aspecte ale clanului.
 - **Default:** Nimic  
 - **Level 1:** +5% – **Preț:** 500 Clan Points  
 - **Level 2:** +10% – **Preț:** 750 Clan Points  
-- **Level 3:** +15% – **Preț:** 1,000 Clan Points  
+- **Level 3:** +15% – **Preț:** 1,000 Clan Points
+
+
+  ### **Preturi zile clan**
+
+  - Pretul unei zile de clan (+ 1 day) costa suma de <b>300.000$</b> sau <b>75 Premium Points</b>.
+ 
+    <b>INFO:</b> Se pot cumpara maxim 365 de zile!
 
 
 
@@ -140,7 +147,7 @@ Pentru a face asta, apasă pe tasta 'E'. Poți participa la Clan Drop doar atunc
 - Obey A Type 8L - Aproximativ 184Km/h
 - Ubermacht 5 Type E60 - Aproximativ 176Km/h
 - Benefactor CLS Type 63 - Aproximativ 220Km/h
-- Benbefactor G Type 199 - Aproximativ 183Km/h
+- Benefactor G Type 199 - Aproximativ 183Km/h
 
 <div class="danger-container">
     <p class="title">De retinut</p>
