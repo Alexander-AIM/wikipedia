@@ -1,7 +1,7 @@
 # Clan Rob 💰
 <br><br>
 <div class="danger-container">
-<p> Clan Rob poate fi efectuat doar în zilele de miercuri, sâmbătășiduminică,între orele 19:00-23:00. </p>
+<p> Clan Rob poate fi efectuat doar în zilele de miercuri, sâmbătă și duminică, între orele 19:00-23:00. </p>
 </div>
 
 ## Cerințe:
