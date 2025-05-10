@@ -1,7 +1,7 @@
 # Rob in 2 (Museum)
 <br><br>
 <div class="danger-container">
-<p>Ai nevoie de 50 Rob Points pentru a putea jefui muzeul</p>
+<p>Ai nevoie de 50 Rob Points pentru a putea jefui muzeul.</p>
 </div>
 
 Iteme necesare pentru a putea jefui în 2:
