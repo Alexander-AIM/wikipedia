@@ -91,11 +91,11 @@ Pentru a face acest lucru, este nevoie, după ce faceți misiunea 100, să vă d
 </details>
 
 <div class ="danger-container">
-<p>Vehiculul primit la Repo Work nu poate fi dat prin trade</p>
+<p>Vehiculul primit la Repo Work nu poate fi dat prin trade.</p>
 </div>
 
 ### Posibile erori
 <div class ="danger-container">
 <p>„Nu poți face acest task acum” - Acest lucru înseamnă că nu ai încă minutele jucate în intervalul specific de timp, sau ai terminat deja Repo Work-ul din intervalul respectiv și nu mai poți face altul.</p>
-<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atripuite, si trebuie sa astepti pana se elibereaza altul</p>
+<p>"Momentan nu am nici o masina de recuperat pentru tine" - Acest lucru inseamna ca toate locatiile de Repo Work sunt deja atribuite, si trebuie sa astepti pana se elibereaza altul.</p>
 </div>
