@@ -1,7 +1,7 @@
 # Rob ATM
 <br><br>
 <div class="danger-container">
-<p>Ai nevoie de 25 Rob Points pentru a putea jefui ATM-ul</p>
+<p>Ai nevoie de 25 Rob Points pentru a putea jefui ATM-ul.</p>
 </div>
 
 Itemele necesare pentru a putea jefui bancomatul:
