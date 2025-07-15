@@ -3,7 +3,7 @@
 # Job-uri achizitionate
 <br><br>
 <div class="danger-container">
-    <p class="title">ATENȚIE!</p>
+    <p class="title">ATENȚIE (!)</p>
     <p class="description"> Proprietarii de job-uri în joc trebuie să aibă cel puțin 3 ore de joc într-un interval de 30 de zile pentru a-și 
         menține dreptul asupra acestora. Dacă nu îndeplinesc această cerință, job-urile lor vor fi retrase și puse la licitație.
     </p>
