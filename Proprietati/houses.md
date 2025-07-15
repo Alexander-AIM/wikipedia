@@ -48,4 +48,8 @@ Proprietarul oricărei case își poate achizitiona un Safebox folosind comanda 
 Safebox-ul se va pozitiona în automat în funcție de interiorul casei. 
 Acesta are 100 de sloturi disponibile care vor putea fi folosite atata de propietarul casei cat si de chiriașii acesteia. 
 Jucatori care depoziteaza iteme in SafeBox vor putea sa retraga decat itemele detinute de ei. 
-
+<br>
+<div class="tip-container">
+    <p class="title">INFO (!)</p>
+    <p class="description">Poți băga mașina în garaj apăsând tasta <strong>'E'</strong> în fața garajului, doar dacă este casa ta personală.</p>
+</div>
