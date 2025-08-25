@@ -1,4 +1,3 @@
-<body>
 # Hitman Agency 🎯 
 
 <br><br>
@@ -28,5 +27,4 @@ Regulamentul facțiunii îl poți găsi în totalitate pe panel, la secțiunea <
 Da, ai voie să-l ucizi atâta timp cât respecți regulamentul.
 
 ### Când are voie hitmanul să mă omoare on-foot?
-
-</body>
+Acesta are voie sa te omoare **on-foot** atunci cand are contract pe tine si se incadreaza in sub 100m si in timerul de 2 minute. 
